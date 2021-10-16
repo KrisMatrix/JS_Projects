@@ -25,3 +25,5 @@ used what I learned from these projects to improve hindulit.com.
 | 18 | Splash Page       |                             |
 | 19 | Paint Clone       |                             |
 | 20 | Pong              |                             |
+
+**Note:** The ones where the directory is empty, has not yet been created.
